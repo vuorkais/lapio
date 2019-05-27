@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 tämä on lapion toinen osa
 Ja nyt commitataan
+=======
+ämä on lapion toinen osa
+>>>>>>> Stashed changes
